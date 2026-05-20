@@ -58,7 +58,7 @@ src/
 
 Installation
 
-Clone the repository:
+Clone the repository:https://github.com/sivasankar-4/popX---react-assignment
 
 git clone 
 
