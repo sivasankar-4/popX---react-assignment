@@ -4,7 +4,7 @@ A pixel-perfect mobile UI implementation built using React JS based on the provi
 
 ## Live Demo
 
-🔗 Hosted Link:
+🔗 Hosted Link:https://pop-x-react-assignment-rho.vercel.app/
 
 ## GitHub Repository
 
