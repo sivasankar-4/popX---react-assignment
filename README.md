@@ -8,7 +8,7 @@ A pixel-perfect mobile UI implementation built using React JS based on the provi
 
 ## GitHub Repository
 
-🔗 Repository Link: 
+🔗 Repository Link: https://github.com/sivasankar-4/popX---react-assignment
 
 ---
 
